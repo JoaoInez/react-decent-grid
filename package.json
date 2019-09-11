@@ -1,0 +1,14 @@
+{
+  "name": "react-decent-grid",
+  "version": "1.0.0",
+  "description": "Simple grid made with styled components",
+  "repository": "JoaoInez/react-decent-grid",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "grid",
+    "styled-components"
+  ],
+  "author": "JoaoInez",
+  "license": "MIT"
+}
