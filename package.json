@@ -10,5 +10,8 @@
     "styled-components"
   ],
   "author": "JoaoInez",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "^4.3.2"
+  }
 }
