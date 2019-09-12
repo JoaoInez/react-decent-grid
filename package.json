@@ -1,6 +1,6 @@
 {
   "name": "react-decent-grid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple grid made with styled components",
   "repository": "JoaoInez/react-decent-grid",
   "main": "index.js",
